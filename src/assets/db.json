@@ -1,1 +1,66 @@
-{}
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Item 1",
+      "description": "Description for item 1",
+      "price": 10.99
+    },
+    {
+      "id": 2,
+      "name": "Item 2",
+      "description": "Description for item 2",
+      "price": 15.49
+    },
+    {
+      "id": 3,
+      "name": "Item 3",
+      "description": "Description for item 3",
+      "price": 22.99
+    },
+    {
+      "id": 4,
+      "name": "Item 4",
+      "description": "Description for item 4",
+      "price": 18.99
+    },
+    {
+      "id": 5,
+      "name": "Item 5",
+      "description": "Description for item 5",
+      "price": 12.99
+    }
+  ],
+  "individualItems": [
+    {
+      "id": 1,
+      "name": "Item 1",
+      "description": "Description for item 1",
+      "price": 10.99
+    },
+    {
+      "id": 2,
+      "name": "Item 2",
+      "description": "Description for item 2",
+      "price": 15.49
+    },
+    {
+      "id": 3,
+      "name": "Item 3",
+      "description": "Description for item 3",
+      "price": 22.99
+    },
+    {
+      "id": 4,
+      "name": "Item 4",
+      "description": "Description for item 4",
+      "price": 18.99
+    },
+    {
+      "id": 5,
+      "name": "Item 5",
+      "description": "Description for item 5",
+      "price": 12.99
+    }
+  ]
+}
